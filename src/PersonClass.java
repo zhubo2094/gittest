@@ -3,4 +3,5 @@ public class PersonClass {
     public int name;
     public int address;
     public String school;
+    public String sex;
 }
