@@ -3,4 +3,5 @@ public class PersonClass {
     public int name;
     public int address;
     public int job;
+    public int phone;
 }
